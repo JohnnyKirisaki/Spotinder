@@ -1,13 +1,10 @@
 # Spotinder
 A modern, playful way to clean up your Spotify playlists — designed with the style of a dating app.
 
-<img width="1922" height="897" alt="Discord_rGSOyuaZzZ" src="https://github.com/user-attachments/assets/6ca816da-b0a0-4a6e-b7ec-36b423717bd7" />
-<img width="1920" height="898" alt="vivaldi_l5QAQJhZwp" src="https://github.com/user-attachments/assets/1ba79f79-7485-4410-96c0-047ed1fab868" />
-<img width="1915" height="891" alt="vivaldi_v74bamxgpO" src="https://github.com/user-attachments/assets/b50e805e-cdbe-4da3-8ff3-2d846d2ef360" />
-
 ## What is Spotinder?
 Spotinder is a **Spotify playlist cleaner** that helps you decide which songs you still love and which ones you’re ready to move on from.  
 Instead of scrolling endlessly through your playlists, Spotinder gamifies the process: think of it as “Tinder for your music.”
+<img width="1922" height="897" alt="Discord_rGSOyuaZzZ" src="https://github.com/user-attachments/assets/6ca816da-b0a0-4a6e-b7ec-36b423717bd7" />
 
 ## How it Works
 1. Export your Spotify playlist as text (`Artist - Song` format).  
@@ -16,8 +13,11 @@ Instead of scrolling endlessly through your playlists, Spotinder gamifies the pr
 3. The app plays a short **snippet of each track**.  
    - **Swipe right** (or click right arrow) → keep the song.  
    - **Swipe left** (or click left arrow) → mark it for removal.  
+<img width="1920" height="898" alt="vivaldi_l5QAQJhZwp" src="https://github.com/user-attachments/assets/1ba79f79-7485-4410-96c0-047ed1fab868" />
 
 At the end of your run, Spotinder presents you with all the **songs you disliked** so you can clean up your playlist. Perfect for removing tracks you’ve gotten bored of.
+
+<img width="1915" height="891" alt="vivaldi_v74bamxgpO" src="https://github.com/user-attachments/assets/b50e805e-cdbe-4da3-8ff3-2d846d2ef360" />
 
 ## Features
 - 🎵 **Song Snippets**: Quickly preview each track before deciding.  
